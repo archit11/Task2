@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "893186575336",
+    "firebase_url": "https://fir-fd853.firebaseio.com",
+    "project_id": "fir-fd853",
+    "storage_bucket": "fir-fd853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893186575336:android:969c6b0d3b247e1a",
+        "android_client_info": {
+          "package_name": "com.theacecoder.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893186575336-tgmogjcd9s4vt3vd1q3ta7pgug8m6m3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7UXaOBrMwOxbl1Cjn16n7YXNHMPfw9xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893186575336:android:40d337bda51c6266",
+        "android_client_info": {
+          "package_name": "com.theacecoder.task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893186575336-tgmogjcd9s4vt3vd1q3ta7pgug8m6m3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7UXaOBrMwOxbl1Cjn16n7YXNHMPfw9xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
